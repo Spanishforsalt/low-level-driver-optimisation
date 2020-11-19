@@ -12,7 +12,7 @@ The task was to make a user-space application that reads instructions from a fil
 ![Screenshot from 2020-11-19 19-54-30](https://user-images.githubusercontent.com/72558704/99721387-0cf1a480-2aa7-11eb-89db-2e9ab84a5cee.png)
 ![Screenshot from 2020-11-19 19-54-46](https://user-images.githubusercontent.com/72558704/99721513-44605100-2aa7-11eb-95ee-8c6c16014aec.png)
 
-Device has
+The device has
   * An array of 3 LEDs
   * A buzzer
   * A 4-bit motor speed controller
